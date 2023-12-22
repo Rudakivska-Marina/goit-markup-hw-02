@@ -52,8 +52,8 @@ body {
     text-decoration: none;
 }
 
-.menu-li:hover, 
-.menu-li:focus {
+.menu-li-link:hover, 
+.menu-li-link:focus {
     color: var(--OCEAN, #404BBF);;
 }
 
@@ -75,8 +75,8 @@ body {
     font-style: normal;
 }
 
-.social-address-li:hover,
-.social-address-li:focus {
+.social-address-li-link:hover,
+.social-address-li-link:focus {
     color: var(--OCEAN, #404BBF);;
 }
 
