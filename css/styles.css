@@ -23,7 +23,7 @@ body {
 /* logo */ 
 
 .logo-navy-iris {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: var(--IRIS);
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -34,7 +34,7 @@ body {
 }
 
 .logo-navy-blue {
-    color: var(--IRIS);
+    color: var(--NAVY-BLUE);
 }
 
 /* menu */ 
